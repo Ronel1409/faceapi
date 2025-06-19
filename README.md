@@ -9,13 +9,13 @@ Backend service for SnapSage, used for detecting faces in submitted images using
 ## Tech Stack
 - Node.js
 - Express.js
-- face-api.js / OpenCV
+- face-api.js / Clarifai
 - Multer (for image handling)
 
 ## Getting Started
 
 ```bash
-git clone https://github.com/yourusername/faceapi.git
+git clone https://github.com/Ronel1409/faceapi.git
 cd faceapi
 npm install
 npm star
