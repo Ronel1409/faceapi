@@ -1,6 +1,3 @@
-### **Face Recognition API – FaceAPI**
-
-```markdown
 # FaceAPI
 
 Backend service for SnapSage, used for detecting faces in submitted images using OpenCV or face-api.js.
